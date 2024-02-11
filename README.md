@@ -1,23 +1,38 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <header>
-        <h1>Desafio de CSS da Dio</h1>
-        <h2>Clone de página do Youtube usando Flexbox</h2>
-    </header>
-    <main>
-        <h2>Vídeo do desafio concluído</h2>
-        <video src="/assets/video/DesafioYoutubeConcluido.mp4"></video>
-    </main>
-    <footer>
-        <h4>Observação: estou iniciando no CSS, portanto o código apresenta muitas coisas que poderiam ser melhoradas<br>
-        Sinta-se a vontade para clonar e aplicar as melhorias.</h4>
-        <h4>Contato: <a href="https://www.linkedin.com/in/andre-silva366/">Meu LinkedIn</h4>
-    </footer>
-</body>
-</html>
+
+# Desafio CSS Flexbox da DIO
+
+Olá! Este é o meu projeto para o desafio CSS Flexbox da Digital Innovation One (DIO). 
+
+## Sobre o Projeto
+
+Este projeto é uma demonstração prática do uso do CSS Flexbox para criar layouts. O desafio envolveu a criação de uma página web do Youtube.
+
+## Tecnologias Utilizadas
+
+- HTML5
+- CSS3
+
+## Como Executar
+
+Para executar este projeto, siga estas etapas:
+
+1. Clone o repositório para a sua máquina local usando `git clone`.
+2. Abra o arquivo `index.html` em seu navegador.
+
+## Demonstração
+
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7162240450681155584/">Link para o vídeo</a>
+
+
+## Aprendizado
+
+Este projeto me ajudou a entender melhor como o CSS Flexbox funciona e como ele pode ser usado para criar layouts responsivos de maneira eficiente. Estou ansioso para aplicar esse conhecimento em futuros projetos!
+
+## Contato
+
+Se você tiver alguma dúvida ou sugestão, fique à vontade para entrar em contato!
+
+<a href="https://www.linkedin.com/in/andre-silva366/">LinkedIn</a>
+
+
+
